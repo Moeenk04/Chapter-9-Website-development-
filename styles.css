@@ -1,0 +1,16 @@
+/* Set the background color of the page to violet */
+body {
+    background-color: violet;
+  }
+  
+  /* Style for the h1 element */
+  h1 {
+    color: blue; /* Set font color to blue */
+  }
+  
+  /* Hover effect for the h1 element */
+  h1:hover {
+    background-color: blueviolet; /* Change background color to blueviolet on hover */
+    color: white; /* Change font color to white on hover */
+  }
+  
